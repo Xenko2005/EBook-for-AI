@@ -40,47 +40,6 @@ This ebook collection covers many areas in AI and Data Science:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-AI-Ebook-Library/
-│
-├── Artificial Intelligence/
-│   ├── Artificial Intelligence A Modern Approach
-│   ├── AI Engineering
-│   └── AI Engineering with Foundation Models
-│
-├── Machine Learning/
-│   ├── Introduction to Machine Learning with Python
-│   ├── Hands-On Machine Learning with Scikit-Learn
-│   ├── Hands-On Machine Learning with PyTorch
-│   ├── Probabilistic Machine Learning
-│   └── Imbalanced Learning
-│
-├── Deep Learning/
-│   ├── Deep Learning by Ian Goodfellow
-│   ├── Fundamentals of Deep Learning
-│   ├── Generative Deep Learning
-│   └── GANs in Action
-│
-├── NLP/
-│   ├── Natural Language Processing with Python
-│   ├── NLP with Transformer Models
-│   ├── Foundations of Large Language Models
-│   └── Hands-On Large Language Models
-│
-├── Computer Vision/
-│   ├── Computer Vision Algorithms and Applications
-│   └── Hands-On Computer Vision with Transformers
-│
-├── MLOps/
-│   └── Practical MLOps
-│
-└── README.md
-```
-
----
-
 ## 📖 Featured Books & References
 
 | Category                | Example Materials                                                       |
@@ -232,7 +191,7 @@ git lfs install
 ### Step 2: Clone the repository
 
 ```bash
-git clone https://github.com/Xenko2005/EBook for AI.git
+git clone https://github.com/Xenko2005/EBook-for-AI.git
 ```
 
 ### Step 3: Pull large files
@@ -281,23 +240,6 @@ To study effectively:
 5. Build small projects after each topic.
 6. Review important chapters regularly.
 7. Combine theory with practice.
-
----
-
-## 🚀 Project Ideas Based on These Books
-
-You can use these references to build projects such as:
-
-* Disaster tweet classification
-* Real-time speech translation
-* Image classification system
-* Customer segmentation using K-Means
-* Sentiment analysis
-* Chatbot using Large Language Models
-* Object detection application
-* Machine learning model deployment pipeline
-* Recommendation system
-* AI-powered document classification
 
 ---
 
